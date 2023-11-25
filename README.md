@@ -36,3 +36,13 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Deploying 
+
+```bash
+npm run gh-pages
+```
+
+## .nojekyll file for Tailwind CSS/Postcss
+
+If you are using a postcss such as Tailwind css, you need to add **an empty `.nojekyll`** file to the `gh-pages` branch.
