@@ -5,12 +5,9 @@
     /** @type {any} */
     let subDirectories = [];
 
-    onMount(() => {
-        fetch('/sounds.json')
-        .then(response => response.json())
-        .then(data => {
-            subDirectories = data;
-        });
+    onMount(async () => {
+        const res = await fetch('sounds.json')
+        subDirectories = await res.json();
     });
 </script>
 
