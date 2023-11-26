@@ -17,14 +17,14 @@
 </div>
 
 {#each subDirectories as { category, files }}
-    <div class="category">{category}</div>
+    <span>{category}</span>
     {#each files as { title, src}, soundIndex}
         <Sound {title} {src} {soundIndex} />
     {/each}
 {/each}
 
 <style>
-    .category {
+    span {
         font-family: verdana, arial;
         font-size: 10.5px;
         font-weight: bold
