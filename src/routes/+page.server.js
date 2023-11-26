@@ -1,14 +1,15 @@
-/** @type {any} */
-let subDirectories;
+// /** @type {any} */
+// let subDirectories;
 
-fetch('sounds.json')
-    .then(response => response.json())
-    .then(json => {
-        subDirectories = json;
-    });
+// ? This says it can't use relative path
+// fetch(`/sounds.json`)
+//     .then(response => response.json())
+//     .then(json => {
+//         subDirectories = json;
+//     });
 
-export function load() {
-    return {
-        subDirectories
-    }
-}
+// export function load() {
+//     return {
+//         subDirectories
+//     }
+// }
