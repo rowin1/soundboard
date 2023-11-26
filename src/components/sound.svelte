@@ -20,7 +20,9 @@
         display: grid;
         padding-top: 9.6px;
         padding-bottom: 9.6px;
-        font-family: Helvetica Neue, Arial;
-        font-size: 16px;
+        padding-left: 26px;
+        font-family: verdana, Helvetica Neue, Arial;
+        font-size: 10.5px;
+        -webkit-font-smoothing: antialiased;
     }
   </style>
