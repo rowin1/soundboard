@@ -1,0 +1,350 @@
+[
+  {
+    "category": "druid",
+    "folder": "druid",
+    "files": [
+      {
+        "title": "freakin-assholes",
+        "src": "/static/sounds/druid/freakin-assholes.mp3"
+      },
+      {
+        "title": "gunna-die-here-long",
+        "src": "/static/sounds/druid/gunna-die-here-long.mp3"
+      },
+      {
+        "title": "gunna-die-here",
+        "src": "/static/sounds/druid/gunna-die-here.mp3"
+      },
+      {
+        "title": "this-is-trouble-folks",
+        "src": "/static/sounds/druid/this-is-trouble-folks.mp3"
+      },
+      {
+        "title": "yikes",
+        "src": "/static/sounds/druid/yikes.mp3"
+      },
+      {
+        "title": "you-gotta-be-shittin-me",
+        "src": "/static/sounds/druid/you-gotta-be-shittin-me.mp3"
+      }
+    ]
+  },
+  {
+    "category": "druid-2",
+    "folder": "druid-2",
+    "files": [
+      {
+        "title": "boys-we-could-be-in-trouble",
+        "src": "/static/sounds/druid-2/boys-we-could-be-in-trouble.mp3"
+      },
+      {
+        "title": "deep-shit-here",
+        "src": "/static/sounds/druid-2/deep-shit-here.mp3"
+      },
+      {
+        "title": "goddamnit",
+        "src": "/static/sounds/druid-2/goddamnit.mp3"
+      },
+      {
+        "title": "heals-fast-enough",
+        "src": "/static/sounds/druid-2/heals-fast-enough.mp3"
+      },
+      {
+        "title": "i-need-some-big-heals",
+        "src": "/static/sounds/druid-2/i-need-some-big-heals.mp3"
+      },
+      {
+        "title": "oh-shit-theres-more",
+        "src": "/static/sounds/druid-2/oh-shit-theres-more.mp3"
+      },
+      {
+        "title": "wheres-my-mouse",
+        "src": "/static/sounds/druid-2/wheres-my-mouse.mp3"
+      }
+    ]
+  },
+  {
+    "category": "gnome-lock",
+    "folder": "gnome-lock",
+    "files": [
+      {
+        "title": "NO-no",
+        "src": "/static/sounds/gnome-lock/NO-no.mp3"
+      },
+      {
+        "title": "SON-OF-A",
+        "src": "/static/sounds/gnome-lock/SON-OF-A.mp3"
+      },
+      {
+        "title": "cant-believe-it",
+        "src": "/static/sounds/gnome-lock/cant-believe-it.mp3"
+      },
+      {
+        "title": "cant-believe-that",
+        "src": "/static/sounds/gnome-lock/cant-believe-that.mp3"
+      },
+      {
+        "title": "god-dangit",
+        "src": "/static/sounds/gnome-lock/god-dangit.mp3"
+      },
+      {
+        "title": "goddammnit-lock",
+        "src": "/static/sounds/gnome-lock/goddammnit-lock.mp3"
+      },
+      {
+        "title": "goddamnit-daze",
+        "src": "/static/sounds/gnome-lock/goddamnit-daze.mp3"
+      },
+      {
+        "title": "net-killed-me",
+        "src": "/static/sounds/gnome-lock/net-killed-me.mp3"
+      },
+      {
+        "title": "net-lets-go-lets-go",
+        "src": "/static/sounds/gnome-lock/net-lets-go-lets-go.mp3"
+      },
+      {
+        "title": "obviously-nothing",
+        "src": "/static/sounds/gnome-lock/obviously-nothing.mp3"
+      },
+      {
+        "title": "oh-NOOO-NOooO",
+        "src": "/static/sounds/gnome-lock/oh-NOOO-NOooO.mp3"
+      },
+      {
+        "title": "rough-in-there",
+        "src": "/static/sounds/gnome-lock/rough-in-there.mp3"
+      },
+      {
+        "title": "thats-how-it-ends",
+        "src": "/static/sounds/gnome-lock/thats-how-it-ends.mp3"
+      },
+      {
+        "title": "were-fucked-were-dead",
+        "src": "/static/sounds/gnome-lock/were-fucked-were-dead.mp3"
+      },
+      {
+        "title": "where-are-you-going-you-idiot",
+        "src": "/static/sounds/gnome-lock/where-are-you-going-you-idiot.mp3"
+      }
+    ]
+  },
+  {
+    "category": "gnome-lock-2",
+    "folder": "gnome-lock-2",
+    "files": [
+      {
+        "title": "all-he-had-was-a-spider",
+        "src": "/static/sounds/gnome-lock-2/all-he-had-was-a-spider.mp3"
+      },
+      {
+        "title": "come-on-pet",
+        "src": "/static/sounds/gnome-lock-2/come-on-pet.mp3"
+      },
+      {
+        "title": "moan-jesus",
+        "src": "/static/sounds/gnome-lock-2/moan-jesus.mp3"
+      },
+      {
+        "title": "pet-do-somethin",
+        "src": "/static/sounds/gnome-lock-2/pet-do-somethin.mp3"
+      }
+    ]
+  },
+  {
+    "category": "human-lock",
+    "folder": "human-lock",
+    "files": [
+      {
+        "title": "how-did-that-happen-jesus",
+        "src": "/static/sounds/human-lock/how-did-that-happen-jesus.mp3"
+      },
+      {
+        "title": "oh-no-no-jesus",
+        "src": "/static/sounds/human-lock/oh-no-no-jesus.mp3"
+      }
+    ]
+  },
+  {
+    "category": "hunter",
+    "folder": "hunter",
+    "files": [
+      {
+        "title": "ah-shit-another-one",
+        "src": "/static/sounds/hunter/ah-shit-another-one.mp3"
+      },
+      {
+        "title": "brutal",
+        "src": "/static/sounds/hunter/brutal.mp3"
+      },
+      {
+        "title": "got-alotta-problems-here",
+        "src": "/static/sounds/hunter/got-alotta-problems-here.mp3"
+      },
+      {
+        "title": "i-dont-think-were-gunna-make-it",
+        "src": "/static/sounds/hunter/i-dont-think-were-gunna-make-it.mp3"
+      },
+      {
+        "title": "not-gunna-make-it-folks",
+        "src": "/static/sounds/hunter/not-gunna-make-it-folks.mp3"
+      },
+      {
+        "title": "now-were-in-trouble",
+        "src": "/static/sounds/hunter/now-were-in-trouble.mp3"
+      },
+      {
+        "title": "pullin-all-that-shit",
+        "src": "/static/sounds/hunter/pullin-all-that-shit.mp3"
+      },
+      {
+        "title": "son-of-a-bitch",
+        "src": "/static/sounds/hunter/son-of-a-bitch.mp3"
+      },
+      {
+        "title": "son-of-a",
+        "src": "/static/sounds/hunter/son-of-a.mp3"
+      },
+      {
+        "title": "stupid-pet",
+        "src": "/static/sounds/hunter/stupid-pet.mp3"
+      }
+    ]
+  },
+  {
+    "category": "mage",
+    "folder": "mage",
+    "files": [
+      {
+        "title": "aw-you-sonofa-bitch",
+        "src": "/static/sounds/mage/aw-you-sonofa-bitch.mp3"
+      },
+      {
+        "title": "ayyy-whoaaa",
+        "src": "/static/sounds/mage/ayyy-whoaaa.mp3"
+      },
+      {
+        "title": "come-on-guys",
+        "src": "/static/sounds/mage/come-on-guys.mp3"
+      },
+      {
+        "title": "holy-shit",
+        "src": "/static/sounds/mage/holy-shit.mp3"
+      },
+      {
+        "title": "she-killed-me",
+        "src": "/static/sounds/mage/she-killed-me.mp3"
+      },
+      {
+        "title": "shes-doing-that-fartin-thing",
+        "src": "/static/sounds/mage/shes-doing-that-fartin-thing.mp3"
+      }
+    ]
+  },
+  {
+    "category": "mage-2",
+    "folder": "mage-2",
+    "files": [
+      {
+        "title": "god-dangit",
+        "src": "/static/sounds/mage-2/god-dangit.mp3"
+      },
+      {
+        "title": "i-dont-know-my-way-out",
+        "src": "/static/sounds/mage-2/i-dont-know-my-way-out.mp3"
+      },
+      {
+        "title": "i-have-no-fucking-clue",
+        "src": "/static/sounds/mage-2/i-have-no-fucking-clue.mp3"
+      },
+      {
+        "title": "i-knew-it",
+        "src": "/static/sounds/mage-2/i-knew-it.mp3"
+      },
+      {
+        "title": "im-gunna-drown",
+        "src": "/static/sounds/mage-2/im-gunna-drown.mp3"
+      },
+      {
+        "title": "never-again",
+        "src": "/static/sounds/mage-2/never-again.mp3"
+      },
+      {
+        "title": "sigh",
+        "src": "/static/sounds/mage-2/sigh.mp3"
+      },
+      {
+        "title": "this-is-why-i-hate-this-fucking-quest",
+        "src": "/static/sounds/mage-2/this-is-why-i-hate-this-fucking-quest.mp3"
+      },
+      {
+        "title": "this-is-why-i-hate-this-quest",
+        "src": "/static/sounds/mage-2/this-is-why-i-hate-this-quest.mp3"
+      },
+      {
+        "title": "we-gotta-go",
+        "src": "/static/sounds/mage-2/we-gotta-go.mp3"
+      },
+      {
+        "title": "which-way-is-out-god-dangit",
+        "src": "/static/sounds/mage-2/which-way-is-out-god-dangit.mp3"
+      }
+    ]
+  },
+  {
+    "category": "priest",
+    "folder": "priest",
+    "files": [
+      {
+        "title": "SON_OF_A_bitch",
+        "src": "/static/sounds/priest/SON_OF_A_bitch.mp3"
+      },
+      {
+        "title": "fuck-im-netted",
+        "src": "/static/sounds/priest/fuck-im-netted.mp3"
+      },
+      {
+        "title": "goddamn-net",
+        "src": "/static/sounds/priest/goddamn-net.mp3"
+      },
+      {
+        "title": "moan-1",
+        "src": "/static/sounds/priest/moan-1.mp3"
+      },
+      {
+        "title": "personal-best",
+        "src": "/static/sounds/priest/personal-best.mp3"
+      }
+    ]
+  },
+  {
+    "category": "shaman",
+    "folder": "shaman",
+    "files": [
+      {
+        "title": "earthbind-baby",
+        "src": "/static/sounds/shaman/earthbind-baby.mp3"
+      },
+      {
+        "title": "freaking-resist",
+        "src": "/static/sounds/shaman/freaking-resist.mp3"
+      },
+      {
+        "title": "get-undazed-and-run",
+        "src": "/static/sounds/shaman/get-undazed-and-run.mp3"
+      },
+      {
+        "title": "sonava-1",
+        "src": "/static/sounds/shaman/sonava-1.mp3"
+      },
+      {
+        "title": "sonava-2",
+        "src": "/static/sounds/shaman/sonava-2.mp3"
+      },
+      {
+        "title": "stoneclaw",
+        "src": "/static/sounds/shaman/stoneclaw.mp3"
+      }
+    ]
+  }
+]
