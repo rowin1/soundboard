@@ -1,7 +1,13 @@
 <script>
     import { sound } from "svelte-sound";
+
+    /** @type {string} */
     export let title;
+
+    /** @type {number} */
     export let soundIndex;
+
+    /** @type {string} */
     export let src;
 </script>
   

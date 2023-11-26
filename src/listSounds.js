@@ -30,7 +30,7 @@ const data = categories.map(category => {
     folder: category,
     files: files.map(file => ({
       title: path.basename(file, path.extname(file)),
-      src: path.join('/static/sounds', category, file).replace('/static', ''),
+      src: path.join('/static/sounds', category, file).replace('/static/', ''),
     })),
   };
 });
