@@ -8,6 +8,7 @@
 </div>
 
 {#each data.subDirectories as { category, files }}
+    <span>{category}</span>
     {#each files as { title, src}, soundIndex}
         <Sound {title} {src} {soundIndex} />
     {/each}

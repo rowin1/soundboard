@@ -6,7 +6,7 @@
 </script>
   
   <span use:sound={{src: src, events: ["click"]}}>
-      {index + 1}. {trimmedSrc.split('/')[3].replace('.mp3', '').replace(/-/g, ' ')}
+      {soundIndex + 1}. {title.replace(/-/g, ' ')}
   </span>
 
   <style>
