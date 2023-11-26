@@ -1,4 +1,5 @@
 <script>
+    import { base } from "$app/paths";
     import { onMount } from 'svelte';
     import Sound from '../components/Sound.svelte';
 
@@ -6,7 +7,7 @@
     let subDirectories = [];
 
     onMount(async () => {
-        const res = await fetch('sounds.json')
+        const res = await fetch(`${base}/sounds.json`)
         subDirectories = await res.json();
     });
 </script>
