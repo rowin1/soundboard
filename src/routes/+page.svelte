@@ -4,7 +4,7 @@
 </script>
 
 <div style="display: flex; justify-content: center;">
-    <img src="pops.png" alt="pops face" />
+    <img src="pops.png" style="width: 100%; height: auto; object-fit: contain;" alt="pops face" />
 </div>
 
 {#each data.subDirectories as { category, files }}
