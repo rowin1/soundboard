@@ -4,16 +4,17 @@
 // * The JSON file structure will look like this:
 // [
 // 	{
-// 		category: '',
-// 		folder: '',
+// 		category: "shaman",
+// 		folder: "shaman",
 // 		files: [
 // 			{
-// 				title: '',
-// 				src: '',
+// 				title: "earthbind-baby",
+// 				src: "/sounds/shaman/earthbind-baby.mp3",
 // 			}
 // 		]
 // 	}
 // ]
+
 import fs from 'fs';
 import path from 'path';
 
@@ -29,7 +30,7 @@ const data = categories.map(category => {
     folder: category,
     files: files.map(file => ({
       title: path.basename(file, path.extname(file)),
-      src: path.join('/static/sounds', category, file),
+      src: path.join('/static/sounds', category, file).replace('/static', ''),
     })),
   };
 });

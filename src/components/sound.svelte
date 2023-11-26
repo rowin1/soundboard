@@ -1,11 +1,11 @@
 <script>
     import { sound } from "svelte-sound";
-    export let index;
+    export let title;
+    export let soundIndex;
     export let src;
-    let trimmedSrc = src.replace('/static', '');
-  </script>
+</script>
   
-  <span use:sound={{src: trimmedSrc, events: ["click"]}}>
+  <span use:sound={{src: src, events: ["click"]}}>
       {index + 1}. {trimmedSrc.split('/')[3].replace('.mp3', '').replace(/-/g, ' ')}
   </span>
 
