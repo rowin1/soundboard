@@ -64,6 +64,64 @@
     ]
   },
   {
+    "category": "druid-3",
+    "folder": "druid-3",
+    "files": [
+      {
+        "title": "AW-you-son-of-a",
+        "src": "sounds/druid-3/AW-you-son-of-a.mp3"
+      },
+      {
+        "title": "SON-of-a-bitch",
+        "src": "sounds/druid-3/SON-of-a-bitch.mp3"
+      },
+      {
+        "title": "come-on-come-on",
+        "src": "sounds/druid-3/come-on-come-on.mp3"
+      },
+      {
+        "title": "god-damn-it",
+        "src": "sounds/druid-3/god-damn-it.mp3"
+      },
+      {
+        "title": "gotta-go-gotta-go",
+        "src": "sounds/druid-3/gotta-go-gotta-go.mp3"
+      },
+      {
+        "title": "hate-that-they-run",
+        "src": "sounds/druid-3/hate-that-they-run.mp3"
+      },
+      {
+        "title": "im-just-aggravated-that-they-can-run-that-far",
+        "src": "sounds/druid-3/im-just-aggravated-that-they-can-run-that-far.mp3"
+      },
+      {
+        "title": "sigh-god-dangit",
+        "src": "sounds/druid-3/sigh-god-dangit.mp3"
+      },
+      {
+        "title": "so-aggravating",
+        "src": "sounds/druid-3/so-aggravating.mp3"
+      },
+      {
+        "title": "sonova-bitch",
+        "src": "sounds/druid-3/sonova-bitch.mp3"
+      },
+      {
+        "title": "ugh",
+        "src": "sounds/druid-3/ugh.mp3"
+      },
+      {
+        "title": "we-got-a-bunch",
+        "src": "sounds/druid-3/we-got-a-bunch.mp3"
+      },
+      {
+        "title": "yeah-you-son-of-a",
+        "src": "sounds/druid-3/yeah-you-son-of-a.mp3"
+      }
+    ]
+  },
+  {
     "category": "gnome-lock",
     "folder": "gnome-lock",
     "files": [
@@ -166,6 +224,40 @@
     ]
   },
   {
+    "category": "human-lock-2",
+    "folder": "human-lock-2",
+    "files": [
+      {
+        "title": "god-damn-honey",
+        "src": "sounds/human-lock-2/god-damn-honey.mp3"
+      },
+      {
+        "title": "god-dayum",
+        "src": "sounds/human-lock-2/god-dayum.mp3"
+      },
+      {
+        "title": "how-bout-hitting-him",
+        "src": "sounds/human-lock-2/how-bout-hitting-him.mp3"
+      },
+      {
+        "title": "like-an-ex-wife",
+        "src": "sounds/human-lock-2/like-an-ex-wife.mp3"
+      },
+      {
+        "title": "she-dont-like-me",
+        "src": "sounds/human-lock-2/she-dont-like-me.mp3"
+      },
+      {
+        "title": "she-just-like-me-way-too-much",
+        "src": "sounds/human-lock-2/she-just-like-me-way-too-much.mp3"
+      },
+      {
+        "title": "she-like-me",
+        "src": "sounds/human-lock-2/she-like-me.mp3"
+      }
+    ]
+  },
+  {
     "category": "hunter",
     "folder": "hunter",
     "files": [
@@ -208,6 +300,68 @@
       {
         "title": "stupid-pet",
         "src": "sounds/hunter/stupid-pet.mp3"
+      }
+    ]
+  },
+  {
+    "category": "hunter-2",
+    "folder": "hunter-2",
+    "files": [
+      {
+        "title": "ah-that-son-of-a-bitch",
+        "src": "sounds/hunter-2/ah-that-son-of-a-bitch.mp3"
+      },
+      {
+        "title": "god-DAMN-it",
+        "src": "sounds/hunter-2/god-DAMN-it.mp3"
+      },
+      {
+        "title": "goddamnit",
+        "src": "sounds/hunter-2/goddamnit.mp3"
+      },
+      {
+        "title": "heart-attack-noise",
+        "src": "sounds/hunter-2/heart-attack-noise.mp3"
+      },
+      {
+        "title": "i-knew-he-was-gunna-come",
+        "src": "sounds/hunter-2/i-knew-he-was-gunna-come.mp3"
+      },
+      {
+        "title": "i-knew-that-was-going-to-happen",
+        "src": "sounds/hunter-2/i-knew-that-was-going-to-happen.mp3"
+      },
+      {
+        "title": "i-knew-that-was-gunna-happen",
+        "src": "sounds/hunter-2/i-knew-that-was-gunna-happen.mp3"
+      },
+      {
+        "title": "knew-that-woof-was-going-to-come",
+        "src": "sounds/hunter-2/knew-that-woof-was-going-to-come.mp3"
+      },
+      {
+        "title": "now-i-got-three-of-them",
+        "src": "sounds/hunter-2/now-i-got-three-of-them.mp3"
+      },
+      {
+        "title": "oh-you-bastard",
+        "src": "sounds/hunter-2/oh-you-bastard.mp3"
+      },
+      {
+        "title": "son-of-a-bitch",
+        "src": "sounds/hunter-2/son-of-a-bitch.mp3"
+      },
+      {
+        "title": "son-of-a-i-cant-get-away",
+        "src": "sounds/hunter-2/son-of-a-i-cant-get-away.mp3"
+      },
+      {
+        "title": "stupid",
+        "src": "sounds/hunter-2/stupid.mp3"
+      },
+      {
+        "title": "this-could-be-the-end-of-us",
+        "src": "sounds/hunter-2/this-could-be-the-end-of-us.mp3"
       }
     ]
   },
@@ -292,6 +446,80 @@
     ]
   },
   {
+    "category": "mage-3",
+    "folder": "mage-3",
+    "files": [
+      {
+        "title": "OHhh-son-of-a-bitch",
+        "src": "sounds/mage-3/OHhh-son-of-a-bitch.mp3"
+      },
+      {
+        "title": "and-it-happened",
+        "src": "sounds/mage-3/and-it-happened.mp3"
+      },
+      {
+        "title": "come-on-net-i-cant-escape-artist",
+        "src": "sounds/mage-3/come-on-net-i-cant-escape-artist.mp3"
+      },
+      {
+        "title": "escape-artist-come-on",
+        "src": "sounds/mage-3/escape-artist-come-on.mp3"
+      },
+      {
+        "title": "god-damnit",
+        "src": "sounds/mage-3/god-damnit.mp3"
+      },
+      {
+        "title": "maybe-not-maybe-not",
+        "src": "sounds/mage-3/maybe-not-maybe-not.mp3"
+      },
+      {
+        "title": "oh-shit-netted",
+        "src": "sounds/mage-3/oh-shit-netted.mp3"
+      },
+      {
+        "title": "pardon-my-french",
+        "src": "sounds/mage-3/pardon-my-french.mp3"
+      },
+      {
+        "title": "shit-im-fucked",
+        "src": "sounds/mage-3/shit-im-fucked.mp3"
+      },
+      {
+        "title": "shit",
+        "src": "sounds/mage-3/shit.mp3"
+      },
+      {
+        "title": "shouldnt-have-done-it",
+        "src": "sounds/mage-3/shouldnt-have-done-it.mp3"
+      },
+      {
+        "title": "somebody-wished-me-a-death",
+        "src": "sounds/mage-3/somebody-wished-me-a-death.mp3"
+      },
+      {
+        "title": "take-a-mana-pot",
+        "src": "sounds/mage-3/take-a-mana-pot.mp3"
+      },
+      {
+        "title": "target-dummy",
+        "src": "sounds/mage-3/target-dummy.mp3"
+      },
+      {
+        "title": "uh-oh-netted",
+        "src": "sounds/mage-3/uh-oh-netted.mp3"
+      },
+      {
+        "title": "uh-oh",
+        "src": "sounds/mage-3/uh-oh.mp3"
+      },
+      {
+        "title": "why-is-my",
+        "src": "sounds/mage-3/why-is-my.mp3"
+      }
+    ]
+  },
+  {
     "category": "priest",
     "folder": "priest",
     "files": [
@@ -314,6 +542,132 @@
       {
         "title": "personal-best",
         "src": "sounds/priest/personal-best.mp3"
+      }
+    ]
+  },
+  {
+    "category": "priest-2",
+    "folder": "priest-2",
+    "files": [
+      {
+        "title": "ah-man",
+        "src": "sounds/priest-2/ah-man.mp3"
+      },
+      {
+        "title": "aw-fuck-no",
+        "src": "sounds/priest-2/aw-fuck-no.mp3"
+      },
+      {
+        "title": "god-damn-it",
+        "src": "sounds/priest-2/god-damn-it.mp3"
+      },
+      {
+        "title": "im-reading-guild-chat",
+        "src": "sounds/priest-2/im-reading-guild-chat.mp3"
+      },
+      {
+        "title": "looks-like-im-gunna-be-dead",
+        "src": "sounds/priest-2/looks-like-im-gunna-be-dead.mp3"
+      },
+      {
+        "title": "not-paying-attention",
+        "src": "sounds/priest-2/not-paying-attention.mp3"
+      },
+      {
+        "title": "oh-shit",
+        "src": "sounds/priest-2/oh-shit.mp3"
+      },
+      {
+        "title": "stupid-me",
+        "src": "sounds/priest-2/stupid-me.mp3"
+      }
+    ]
+  },
+  {
+    "category": "rogue",
+    "folder": "rogue",
+    "files": [
+      {
+        "title": "argh",
+        "src": "sounds/rogue/argh.mp3"
+      },
+      {
+        "title": "fuzzy!",
+        "src": "sounds/rogue/fuzzy!.mp3"
+      },
+      {
+        "title": "fuzzy-where-you-at",
+        "src": "sounds/rogue/fuzzy-where-you-at.mp3"
+      },
+      {
+        "title": "goddamn",
+        "src": "sounds/rogue/goddamn.mp3"
+      },
+      {
+        "title": "now-we-got-everything",
+        "src": "sounds/rogue/now-we-got-everything.mp3"
+      },
+      {
+        "title": "well-that-ends-the-rogue",
+        "src": "sounds/rogue/well-that-ends-the-rogue.mp3"
+      },
+      {
+        "title": "where-you-at-fuzzy",
+        "src": "sounds/rogue/where-you-at-fuzzy.mp3"
+      }
+    ]
+  },
+  {
+    "category": "rogue-2",
+    "folder": "rogue-2",
+    "files": [
+      {
+        "title": "ah-boy",
+        "src": "sounds/rogue-2/ah-boy.mp3"
+      },
+      {
+        "title": "and..boom",
+        "src": "sounds/rogue-2/and..boom.mp3"
+      },
+      {
+        "title": "aw-come-on",
+        "src": "sounds/rogue-2/aw-come-on.mp3"
+      },
+      {
+        "title": "dangit-target-dummy",
+        "src": "sounds/rogue-2/dangit-target-dummy.mp3"
+      },
+      {
+        "title": "do-not-want-that-spider",
+        "src": "sounds/rogue-2/do-not-want-that-spider.mp3"
+      },
+      {
+        "title": "how-is-this-one-still-up",
+        "src": "sounds/rogue-2/how-is-this-one-still-up.mp3"
+      },
+      {
+        "title": "im-looking-down-there",
+        "src": "sounds/rogue-2/im-looking-down-there.mp3"
+      },
+      {
+        "title": "not-very-happy",
+        "src": "sounds/rogue-2/not-very-happy.mp3"
+      },
+      {
+        "title": "oh-SHIT",
+        "src": "sounds/rogue-2/oh-SHIT.mp3"
+      },
+      {
+        "title": "spider-conspiracy",
+        "src": "sounds/rogue-2/spider-conspiracy.mp3"
+      },
+      {
+        "title": "target-dummy",
+        "src": "sounds/rogue-2/target-dummy.mp3"
+      },
+      {
+        "title": "there-goes-the-rogue",
+        "src": "sounds/rogue-2/there-goes-the-rogue.mp3"
       }
     ]
   },
