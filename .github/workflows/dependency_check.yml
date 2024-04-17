@@ -69,4 +69,4 @@ jobs:
         run: |
           gh pr edit ${{env.PR_NUMBER}} --repo ${{github.repository}} --add-label "dependencies"
           gh pr comment ${{env.PR_NUMBER}} --repo ${{github.repository}} --body 'Package.json modified in this PR; Possible new dependencies. (@rowin1)'
-          gh pr edit ${{env.PR_NUMBER}} --repo ${{github.repository}} --add-reviewer "@rowin1"
+          gh pr edit ${{env.PR_NUMBER}} --repo ${{github.repository}} --add-reviewer "rowin1"
