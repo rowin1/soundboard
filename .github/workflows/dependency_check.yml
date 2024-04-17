@@ -1,0 +1,72 @@
+name: Dependency Check
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+    paths:
+      - 'package.json'
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  PR_NUMBER: ${{github.event.number}}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      checks: write
+
+    steps:
+      # This is commented out because we don't need to checkout the code
+      # until we are doing some more fancy diffing to check if new dependencies were added
+      # - name: Checkout code
+      #   uses: actions/checkout@v2
+
+      - name: Create check run
+        id: create-check
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const check = await github.rest.checks.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: 'Dependency Check',
+              head_sha: context.sha,
+              status: 'in_progress'
+            });
+            return check.data.id;
+
+      # This should be updated to do some more fancy diffing to check if new dependencies were added
+      # - name: Check for new dependencies
+      #   run: |
+      #     git fetch origin main
+      #     PACKAGE_JSON_CHANGED=$(git diff --unified=0 origin/main HEAD -- package.json)
+      #     if [[ "$PACKAGE_JSON_CHANGED" != "" ]]; then
+      #       echo "Dependencies have been added or updated."
+      #       echo "::set-output name=deps_changed::true"
+      #     else
+      #       echo "::set-output name=deps_changed::false"
+      #     fi
+      #   id: deps
+
+      - name: Update check run
+        uses: actions/github-script@v5
+        with:
+          script: |
+            await github.rest.checks.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              check_run_id: ${{ steps.create-check.outputs.result }},
+              conclusion: 'success',
+              output: {
+                title: 'New dependencies added',
+                summary: 'New dependencies were possibly added in this PR.'
+              }
+            });
+
+      - name: Label, comment, and add reviewers to PR
+        run: |
+          gh pr edit ${{env.PR_NUMBER}} --repo ${{github.repository}} --add-label "dependencies"
+          gh pr comment ${{env.PR_NUMBER}} --repo ${{github.repository}} --body 'Package.json modified in this PR; Possible new dependencies. (@rowin1)'
+          gh pr edit ${{env.PR_NUMBER}} --repo ${{github.repository}} --add-reviewer "@rowin1"
