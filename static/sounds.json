@@ -700,5 +700,71 @@
         "src": "sounds/shaman/stoneclaw.mp3"
       }
     ]
+  },
+  {
+    "category": "shaman-ungoro",
+    "folder": "shaman-ungoro",
+    "files": [
+      {
+        "title": "big-no",
+        "src": "sounds/shaman-ungoro/big-no.mp3"
+      },
+      {
+        "title": "damnit",
+        "src": "sounds/shaman-ungoro/damnit.mp3"
+      },
+      {
+        "title": "flying-F",
+        "src": "sounds/shaman-ungoro/flying-F.mp3"
+      },
+      {
+        "title": "goddamnit-wheres-healing-pot",
+        "src": "sounds/shaman-ungoro/goddamnit-wheres-healing-pot.mp3"
+      },
+      {
+        "title": "health-warning-shit-we-in-trouble",
+        "src": "sounds/shaman-ungoro/health-warning-shit-we-in-trouble.mp3"
+      },
+      {
+        "title": "hey-what-the-hell",
+        "src": "sounds/shaman-ungoro/hey-what-the-hell.mp3"
+      },
+      {
+        "title": "i-cant-use-a-healing-pot",
+        "src": "sounds/shaman-ungoro/i-cant-use-a-healing-pot.mp3"
+      },
+      {
+        "title": "no-no-2",
+        "src": "sounds/shaman-ungoro/no-no-2.mp3"
+      },
+      {
+        "title": "no-no",
+        "src": "sounds/shaman-ungoro/no-no.mp3"
+      },
+      {
+        "title": "omg",
+        "src": "sounds/shaman-ungoro/omg.mp3"
+      },
+      {
+        "title": "phew",
+        "src": "sounds/shaman-ungoro/phew.mp3"
+      },
+      {
+        "title": "shit",
+        "src": "sounds/shaman-ungoro/shit.mp3"
+      },
+      {
+        "title": "warstomp",
+        "src": "sounds/shaman-ungoro/warstomp.mp3"
+      },
+      {
+        "title": "we-are-in-trouble-here",
+        "src": "sounds/shaman-ungoro/we-are-in-trouble-here.mp3"
+      },
+      {
+        "title": "we-gotta-go",
+        "src": "sounds/shaman-ungoro/we-gotta-go.mp3"
+      }
+    ]
   }
 ]
